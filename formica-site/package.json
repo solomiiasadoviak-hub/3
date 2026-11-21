@@ -1,0 +1,17 @@
+{
+  "name": "formica-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Formica Building Contracting — website with preliminary renovation estimate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "sharp": "0.33.5"
+  }
+}

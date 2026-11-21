@@ -1,0 +1,886 @@
+{
+  "settings": {
+    "phone": "+971 58 595 1312",
+    "whatsapp": "971585951312",
+    "email": "sales@formicadxb.com",
+    "instagram": "formica.dxb",
+    "address": {
+      "en": "Diamond Business Center 1-B, Office 209\nAl Barsha South, Dubai, UAE",
+      "ru": "Diamond Business Center 1-B, офис 209\nAl Barsha South, Дубай, ОАЭ"
+    },
+    "licence": {
+      "en": "Building Contracting G+1\nNo. 1161014",
+      "ru": "Building Contracting G+1\n№ 1161014"
+    },
+    "company": "Formica Building Contracting LLC",
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2000&q=75",
+      "imageMobile": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=75",
+      "video": "",
+      "videoMobile": ""
+    },
+    "analytics": {
+      "gtmId": "",
+      "ga4Id": "",
+      "metaPixelId": ""
+    }
+  },
+  "estimator": {
+    "currency": "AED",
+    "rates": {
+      "full": {
+        "standard": [
+          750,
+          1000
+        ],
+        "premium": [
+          1150,
+          1550
+        ],
+        "luxury": [
+          1900,
+          2700
+        ]
+      },
+      "rental": {
+        "standard": [
+          280,
+          420
+        ],
+        "premium": [
+          450,
+          650
+        ],
+        "luxury": [
+          700,
+          1000
+        ]
+      },
+      "commercial": {
+        "standard": [
+          900,
+          1250
+        ],
+        "premium": [
+          1350,
+          1900
+        ],
+        "luxury": [
+          2100,
+          3000
+        ]
+      }
+    },
+    "propertyFactor": {
+      "apartment": 1,
+      "townhouse": 1.05,
+      "villa": 1.12,
+      "office": 1,
+      "retail": 1.1,
+      "salon": 1.15,
+      "restaurant": 1.35
+    },
+    "kitchen": {
+      "standard": [
+        30000,
+        50000
+      ],
+      "premium": [
+        55000,
+        95000
+      ],
+      "luxury": [
+        110000,
+        190000
+      ]
+    },
+    "bathroom": {
+      "standard": [
+        22000,
+        35000
+      ],
+      "premium": [
+        38000,
+        65000
+      ],
+      "luxury": [
+        70000,
+        115000
+      ]
+    },
+    "rentalKitchen": [
+      9000,
+      18000
+    ],
+    "rentalBathroom": [
+      6000,
+      12000
+    ],
+    "designPerM2": {
+      "standard": [
+        80,
+        120
+      ],
+      "premium": [
+        130,
+        190
+      ],
+      "luxury": [
+        200,
+        320
+      ]
+    },
+    "approvals": {
+      "apartment": [
+        6000,
+        14000
+      ],
+      "townhouse": [
+        9000,
+        18000
+      ],
+      "villa": [
+        12000,
+        30000
+      ],
+      "commercial": [
+        12000,
+        35000
+      ]
+    },
+    "extras": {
+      "layout": {
+        "type": "pct",
+        "value": [
+          0.08,
+          0.14
+        ]
+      },
+      "furniture": {
+        "type": "pct",
+        "value": [
+          0.18,
+          0.26
+        ]
+      },
+      "smart": {
+        "type": "m2",
+        "value": [
+          60,
+          140
+        ]
+      },
+      "ac": {
+        "type": "m2",
+        "value": [
+          110,
+          190
+        ]
+      },
+      "joinery": {
+        "type": "m2",
+        "value": [
+          90,
+          180
+        ]
+      },
+      "outdoor": {
+        "type": "fixed",
+        "value": [
+          45000,
+          160000
+        ]
+      }
+    },
+    "weeks": {
+      "base": 5,
+      "perM2": 0.045,
+      "min": 2,
+      "max": 40
+    }
+  },
+  "team": [
+    {
+      "name": "Philip",
+      "role": {
+        "en": "Founder & CEO",
+        "ru": "Основатель и CEO"
+      },
+      "note": {
+        "en": "Leads every project from the first meeting to handover.",
+        "ru": "Ведёт каждый проект от первой встречи до сдачи."
+      },
+      "photo": ""
+    },
+    {
+      "name": "",
+      "role": {
+        "en": "Project Manager",
+        "ru": "Руководитель проекта"
+      },
+      "note": {
+        "en": "Your single point of contact on site.",
+        "ru": "Ваш единый контакт на объекте."
+      },
+      "photo": ""
+    },
+    {
+      "name": "",
+      "role": {
+        "en": "In-House Engineer",
+        "ru": "Штатный инженер"
+      },
+      "note": {
+        "en": "Drawings, calculations and approvals.",
+        "ru": "Чертежи, расчёты и согласования."
+      },
+      "photo": ""
+    },
+    {
+      "name": "",
+      "role": {
+        "en": "Site Supervisor",
+        "ru": "Прораб"
+      },
+      "note": {
+        "en": "Daily quality control on site.",
+        "ru": "Ежедневный контроль качества на объекте."
+      },
+      "photo": ""
+    },
+    {
+      "name": "",
+      "role": {
+        "en": "Project Coordinator",
+        "ru": "Координатор проекта"
+      },
+      "note": {
+        "en": "Schedules, reports and documents.",
+        "ru": "Графики, отчёты и документы."
+      },
+      "photo": ""
+    },
+    {
+      "name": "",
+      "role": {
+        "en": "Procurement Specialist",
+        "ru": "Специалист по закупкам"
+      },
+      "note": {
+        "en": "Materials, suppliers and deliveries.",
+        "ru": "Материалы, поставщики и доставка."
+      },
+      "photo": ""
+    }
+  ],
+  "projects": [
+    {
+      "slug": "la-sirena-la-mer",
+      "category": "full",
+      "type": "apartment",
+      "featured": true,
+      "order": 1,
+      "title": {
+        "en": "La Sirena",
+        "ru": "La Sirena"
+      },
+      "location": {
+        "en": "La Mer, Dubai",
+        "ru": "La Mer, Дубай"
+      },
+      "area": 185,
+      "scope": {
+        "en": "Full renovation with furniture",
+        "ru": "Полная реновация с мебелью"
+      },
+      "brief": {
+        "en": "The owners bought the apartment from the developer and wanted a calm, hotel-like interior ready to live in within four months.",
+        "ru": "Владельцы купили квартиру у застройщика и хотели спокойный интерьер в духе отеля, готовый к жизни через четыре месяца."
+      },
+      "works": {
+        "en": "Strip-out of builder finishes, new electrical and lighting plan, wall panelling, engineered oak flooring, custom joinery, two bathrooms, kitchen with built-in appliances, furniture delivery and installation.",
+        "ru": "Демонтаж отделки застройщика, новая электрика и сценарии света, стеновые панели, инженерная доска из дуба, мебель на заказ, две ванные, кухня со встроенной техникой, доставка и сборка мебели."
+      },
+      "involvement": {
+        "en": "Approved the design concept, the stone and wood samples and the budget. Everything else was handled remotely with weekly photo reports.",
+        "ru": "Утвердили концепцию дизайна, образцы камня и дерева и бюджет. Остальное контролировали удалённо по еженедельным фотоотчётам."
+      },
+      "features": {
+        "en": "Hidden lighting coves in every room; wall panelling built to align with the curtain pockets.",
+        "ru": "Скрытая подсветка во всех комнатах; стеновые панели выведены в одну линию с нишами для штор."
+      },
+      "cover": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Bedroom",
+            "ru": "Спальня"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Kitchen",
+            "ru": "Кухня"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Bathroom",
+            "ru": "Ванная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Hall",
+            "ru": "Холл"
+          }
+        }
+      ],
+      "before": [
+        {
+          "src": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Before — strip-out",
+            "ru": "До — демонтаж"
+          }
+        }
+      ],
+      "after": [
+        {
+          "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "al-barari-villa",
+      "category": "full",
+      "type": "villa",
+      "featured": true,
+      "order": 2,
+      "title": {
+        "en": "Al Barari Villa",
+        "ru": "Вилла Al Barari"
+      },
+      "location": {
+        "en": "Al Barari, Dubai",
+        "ru": "Al Barari, Дубай"
+      },
+      "area": 340,
+      "scope": {
+        "en": "Villa renovation",
+        "ru": "Реновация виллы"
+      },
+      "brief": {
+        "en": "A family villa that needed a complete update: new layout on the ground floor, a dressing room and a larger kitchen.",
+        "ru": "Семейная вилла, которой требовалось полное обновление: новая планировка первого этажа, гардеробная и увеличенная кухня."
+      },
+      "works": {
+        "en": "Layout modification with authority approval, MEP upgrade, flooring, ceilings, joinery, kitchen, four bathrooms, dressing room.",
+        "ru": "Перепланировка с согласованием, замена инженерных систем, полы, потолки, столярные изделия, кухня, четыре ванные, гардеробная."
+      },
+      "involvement": {
+        "en": "Provided the design project from their designer and approved material changes during the works.",
+        "ru": "Предоставили дизайн-проект своего дизайнера и согласовывали замены материалов в ходе работ."
+      },
+      "features": {
+        "en": "Our engineer prepared the structural calculation for opening the kitchen wall.",
+        "ru": "Наш инженер подготовил расчёт для проёма в несущей стене кухни."
+      },
+      "cover": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Bedroom",
+            "ru": "Спальня"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Hall",
+            "ru": "Холл"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Kitchen",
+            "ru": "Кухня"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Facade",
+            "ru": "Фасад"
+          }
+        }
+      ],
+      "before": [],
+      "after": []
+    },
+    {
+      "slug": "dubai-hills-apartment",
+      "category": "full",
+      "type": "apartment",
+      "featured": false,
+      "order": 3,
+      "title": {
+        "en": "Park Heights",
+        "ru": "Park Heights"
+      },
+      "location": {
+        "en": "Dubai Hills Estate",
+        "ru": "Dubai Hills Estate"
+      },
+      "area": 120,
+      "scope": {
+        "en": "Turnkey renovation",
+        "ru": "Реновация под ключ"
+      },
+      "brief": {
+        "en": "Turn a standard two-bedroom unit into a warm family apartment.",
+        "ru": "Превратить типовую квартиру с двумя спальнями в тёплое семейное жильё."
+      },
+      "works": {
+        "en": "Demolition, new flooring, ceilings with lighting, kitchen, bathrooms, wardrobes.",
+        "ru": "Демонтаж, новые полы, потолки со светом, кухня, ванные, шкафы."
+      },
+      "involvement": {
+        "en": "We arranged the design; the client chose finishes from three proposed palettes.",
+        "ru": "Дизайн организовали мы; клиент выбрал отделку из трёх предложенных палитр."
+      },
+      "features": {
+        "en": "Completed in 11 weeks including approvals.",
+        "ru": "Выполнено за 11 недель с учётом согласований."
+      },
+      "cover": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Bedroom",
+            "ru": "Спальня"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Kitchen",
+            "ru": "Кухня"
+          }
+        }
+      ],
+      "before": [],
+      "after": []
+    },
+    {
+      "slug": "arabian-ranches-villa",
+      "category": "full",
+      "type": "villa",
+      "featured": false,
+      "order": 4,
+      "title": {
+        "en": "Arabian Ranches Villa",
+        "ru": "Вилла Arabian Ranches"
+      },
+      "location": {
+        "en": "Arabian Ranches, Dubai",
+        "ru": "Arabian Ranches, Дубай"
+      },
+      "area": 410,
+      "scope": {
+        "en": "Full renovation",
+        "ru": "Полная реновация"
+      },
+      "brief": {
+        "en": "Modernise a 2005 villa while keeping the family living in part of the house.",
+        "ru": "Модернизировать виллу 2005 года, пока семья живёт в части дома."
+      },
+      "works": {
+        "en": "Phased works: ground floor, then first floor. New kitchen, flooring, bathrooms, lighting.",
+        "ru": "Работы поэтапно: сначала первый этаж, затем второй. Новая кухня, полы, ванные, освещение."
+      },
+      "involvement": {
+        "en": "Approved each phase and the material selection.",
+        "ru": "Утверждали каждый этап и подбор материалов."
+      },
+      "features": {
+        "en": "Dust-sealed zones so the family could stay in the house.",
+        "ru": "Пылезащитные зоны, чтобы семья могла оставаться в доме."
+      },
+      "cover": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Facade",
+            "ru": "Фасад"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600573472592-401b489a3cdc?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Kitchen",
+            "ru": "Кухня"
+          }
+        }
+      ],
+      "before": [],
+      "after": []
+    },
+    {
+      "slug": "jvc-rental-ready",
+      "category": "rental",
+      "type": "apartment",
+      "featured": true,
+      "order": 5,
+      "title": {
+        "en": "JVC Rental Unit",
+        "ru": "Квартира под аренду в JVC"
+      },
+      "location": {
+        "en": "Jumeirah Village Circle",
+        "ru": "Jumeirah Village Circle"
+      },
+      "area": 75,
+      "scope": {
+        "en": "Rental-ready refresh",
+        "ru": "Подготовка к аренде"
+      },
+      "brief": {
+        "en": "An investor needed the unit ready for a new tenant within three weeks, at a controlled budget.",
+        "ru": "Инвестору нужно было подготовить квартиру к новому арендатору за три недели в рамках бюджета."
+      },
+      "works": {
+        "en": "Painting, new lighting, kitchen fronts and worktop, bathroom refresh, furniture package.",
+        "ru": "Покраска, новый свет, фасады и столешница кухни, обновление ванной, комплект мебели."
+      },
+      "involvement": {
+        "en": "Approved the budget and the furniture package from abroad.",
+        "ru": "Утвердил бюджет и комплект мебели, находясь за границей."
+      },
+      "features": {
+        "en": "Rent increased after the refresh; let within two weeks of handover.",
+        "ru": "После обновления аренду удалось поднять; сдана через две недели после передачи."
+      },
+      "cover": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Bedroom",
+            "ru": "Спальня"
+          }
+        }
+      ],
+      "before": [
+        {
+          "src": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Before — strip-out",
+            "ru": "До — демонтаж"
+          }
+        }
+      ],
+      "after": [
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "marina-rental-ready",
+      "category": "rental",
+      "type": "apartment",
+      "featured": false,
+      "order": 6,
+      "title": {
+        "en": "Marina Studio",
+        "ru": "Студия в Marina"
+      },
+      "location": {
+        "en": "Dubai Marina",
+        "ru": "Dubai Marina"
+      },
+      "area": 48,
+      "scope": {
+        "en": "Holiday-home preparation",
+        "ru": "Подготовка под краткосрочную аренду"
+      },
+      "brief": {
+        "en": "Prepare a studio for short-term rental with durable finishes.",
+        "ru": "Подготовить студию к краткосрочной аренде с износостойкой отделкой."
+      },
+      "works": {
+        "en": "Vinyl flooring, painting, lighting, compact kitchen, furniture and decor.",
+        "ru": "Виниловый пол, покраска, освещение, компактная кухня, мебель и декор."
+      },
+      "involvement": {
+        "en": "Chose the furniture style from our presets.",
+        "ru": "Выбрал стиль мебели из наших готовых решений."
+      },
+      "features": {
+        "en": "Done in 12 working days.",
+        "ru": "Выполнено за 12 рабочих дней."
+      },
+      "cover": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Living room",
+            "ru": "Гостиная"
+          }
+        }
+      ],
+      "before": [],
+      "after": []
+    },
+    {
+      "slug": "business-bay-office",
+      "category": "commercial",
+      "type": "office",
+      "featured": true,
+      "order": 7,
+      "title": {
+        "en": "Business Bay Office",
+        "ru": "Офис в Business Bay"
+      },
+      "location": {
+        "en": "Business Bay, Dubai",
+        "ru": "Business Bay, Дубай"
+      },
+      "area": 260,
+      "scope": {
+        "en": "Office fit-out",
+        "ru": "Fit-out офиса"
+      },
+      "brief": {
+        "en": "A shell-and-core office for a 30-person team with two meeting rooms and a reception.",
+        "ru": "Офис в состоянии shell-and-core для команды из 30 человек с двумя переговорными и ресепшн."
+      },
+      "works": {
+        "en": "Partitions, ceilings, MEP, data cabling, flooring, joinery, pantry, approvals with the building management and civil defence.",
+        "ru": "Перегородки, потолки, инженерия, слаботочные сети, полы, столярка, кухня для сотрудников, согласования с управляющей компанией и гражданской обороной."
+      },
+      "involvement": {
+        "en": "Approved the layout and the brand colours.",
+        "ru": "Утвердили планировку и фирменные цвета."
+      },
+      "features": {
+        "en": "Works carried out at night to avoid disturbing neighbouring tenants.",
+        "ru": "Шумные работы проводились ночью, чтобы не мешать соседним арендаторам."
+      },
+      "cover": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Open office",
+            "ru": "Опен-спейс"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Meeting room",
+            "ru": "Переговорная"
+          }
+        }
+      ],
+      "before": [],
+      "after": []
+    },
+    {
+      "slug": "jumeirah-salon",
+      "category": "commercial",
+      "type": "salon",
+      "featured": false,
+      "order": 8,
+      "title": {
+        "en": "Jumeirah Beauty Salon",
+        "ru": "Салон красоты в Jumeirah"
+      },
+      "location": {
+        "en": "Jumeirah, Dubai",
+        "ru": "Jumeirah, Дубай"
+      },
+      "area": 140,
+      "scope": {
+        "en": "Salon fit-out",
+        "ru": "Fit-out салона"
+      },
+      "brief": {
+        "en": "Fit out a salon with six stations, a wash area and a retail corner.",
+        "ru": "Оборудовать салон с шестью рабочими местами, зоной мытья и витриной."
+      },
+      "works": {
+        "en": "Plumbing for wash units, lighting, joinery, flooring, signage coordination.",
+        "ru": "Сантехника для моек, свет, столярка, полы, согласование вывески."
+      },
+      "involvement": {
+        "en": "Provided the brand book; approved the joinery drawings.",
+        "ru": "Предоставили брендбук; утвердили чертежи мебели."
+      },
+      "features": {
+        "en": "Trade licence inspection passed on the first visit.",
+        "ru": "Инспекцию для торговой лицензии прошли с первого раза."
+      },
+      "cover": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1600&q=75",
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Salon floor",
+            "ru": "Зал салона"
+          }
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1600&q=75",
+          "caption": {
+            "en": "Sales floor",
+            "ru": "Торговый зал"
+          }
+        }
+      ],
+      "before": [],
+      "after": []
+    }
+  ],
+  "videos": [
+    {
+      "id": "v1",
+      "category": "completed",
+      "featured": true,
+      "order": 1,
+      "title": {
+        "en": "La Sirena — walkthrough",
+        "ru": "La Sirena — обзор"
+      },
+      "src": "",
+      "cover": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=900&q=75",
+      "project": "la-sirena-la-mer"
+    },
+    {
+      "id": "v2",
+      "category": "process",
+      "featured": true,
+      "order": 2,
+      "title": {
+        "en": "Villa — from strip-out to finishes",
+        "ru": "Вилла — от демонтажа до отделки"
+      },
+      "src": "",
+      "cover": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=900&q=75",
+      "project": "al-barari-villa"
+    },
+    {
+      "id": "v3",
+      "category": "beforeafter",
+      "featured": true,
+      "order": 3,
+      "title": {
+        "en": "JVC — before and after",
+        "ru": "JVC — до и после"
+      },
+      "src": "",
+      "cover": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=900&q=75",
+      "project": "jvc-rental-ready"
+    },
+    {
+      "id": "v4",
+      "category": "completed",
+      "featured": true,
+      "order": 4,
+      "title": {
+        "en": "Kitchen details",
+        "ru": "Детали кухни"
+      },
+      "src": "",
+      "cover": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=75",
+      "project": ""
+    },
+    {
+      "id": "v5",
+      "category": "process",
+      "featured": false,
+      "order": 5,
+      "title": {
+        "en": "Office fit-out timelapse",
+        "ru": "Fit-out офиса — таймлапс"
+      },
+      "src": "",
+      "cover": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=75",
+      "project": "business-bay-office"
+    },
+    {
+      "id": "v6",
+      "category": "completed",
+      "featured": false,
+      "order": 6,
+      "title": {
+        "en": "Bathroom — stone and light",
+        "ru": "Ванная — камень и свет"
+      },
+      "src": "",
+      "cover": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=900&q=75",
+      "project": ""
+    }
+  ]
+}
